@@ -1,0 +1,5 @@
+AFR2022]  (conf: 0.78)
+AFR. 2022  (conf: 0.22)
+AFR-2021  (conf: 0.99)
+{AFR-2u22  (conf: 0.24)
+AFR 021  (conf: 0.91)
